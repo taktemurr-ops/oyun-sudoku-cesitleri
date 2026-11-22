@@ -35,7 +35,7 @@ final sudokuCesitConfig = GameConfig(
       'Sudokuvarianter',
       'Sudokuvarianter',
       'Sudoku-muunnelmat',
-      '数独バリエーション',
+      'ナンバープレースバリエーション',
       '스도쿠 변형',
       '数独变体',
       'सुडोकू के प्रकार',
